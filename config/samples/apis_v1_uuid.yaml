@@ -1,0 +1,7 @@
+apiVersion: apis.example.org/v1
+kind: UUID
+metadata:
+  name: uuid-sample
+spec:
+  # Add fields here
+  foo: bar

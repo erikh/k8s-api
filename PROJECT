@@ -1,0 +1,7 @@
+domain: example.org
+repo: github.com/erikh/k8s-api
+resources:
+- group: apis
+  kind: UUID
+  version: v1
+version: "2"
